@@ -5,11 +5,9 @@ Home: https://github.com/atlassian-api/atlassian-python-api
 
 Package license: Apache-2.0
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/atlassian-python-api-feedstock/blob/master/LICENSE.txt)
 
 Summary: Python Atlassian REST API Wrapper
-
-
 
 Current build status
 ====================
