@@ -24,6 +24,7 @@ requirements:
     - oauthlib
     - python >=2.7
     - requests
+    - requests-kerberos
     - requests-oauthlib
     - six
 
