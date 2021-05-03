@@ -36,6 +36,7 @@ Installing `atlassian-python-api` from the `conda-forge` channel can be achieved
 
 ```
 conda config --add channels conda-forge
+conda config --set channel_priority strict
 ```
 
 Once the `conda-forge` channel has been enabled, `atlassian-python-api` can be installed with:
