@@ -20,11 +20,15 @@ requirements:
     - pip
     - python >=2.7
   run:
+    - python >=3.6
+    - beautifulsoup4
     - deprecated
+    - jmespath
+    - lxml
     - oauthlib
-    - python >=2.7
-    - requests
+    - requests >=2.8.1
     - requests-oauthlib
+    - requests-kerberos 0.14.0
     - six
 
 test:
