@@ -1,5 +1,5 @@
 {% set name = "atlassian-python-api" %}
-{% set version = "3.41.9" %}
+{% set version = "3.41.10" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 3682b9539c1e31fe53b020bdcbce532ca5655fc2cc98cc0e7f9572d92afcc13b
+  sha256: 2a0592c5f7db6abeafdabd86b68de2e85aa3396fdcd4d721e9787532fa497ffe
 
 build:
   number: 0
