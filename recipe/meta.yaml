@@ -1,5 +1,5 @@
 {% set name = "atlassian-python-api" %}
-{% set version = "5.0.3" %}
+{% set version = "5.0.4" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 7d0443a01568cdbf9af45efd30980472979923f6b605f2640e0e80dd02c1dc8a
+  sha256: c11cf53283c795d84ddfb593f3c7503f3b0b3c20191fc3061781b2665c10f6b3
 
 build:
   number: 0
